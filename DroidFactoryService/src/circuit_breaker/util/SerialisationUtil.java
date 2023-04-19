@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse.util;
+package circuit_breaker.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.json.JsonMapper;

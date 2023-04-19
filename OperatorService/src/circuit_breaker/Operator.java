@@ -1,6 +1,6 @@
-package de.tum.in.ase.pse;
+package circuit_breaker;
 
-import de.tum.in.ase.pse.client.DroidFactoryClient;
+import circuit_breaker.client.DroidFactoryClient;
 
 public class Operator {
 	private final DroidFactoryClient client = DroidFactoryClient.getInstance();

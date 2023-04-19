@@ -1,8 +1,8 @@
-package de.tum.in.ase.pse.client;
+package circuit_breaker.client;
 
-import de.tum.in.ase.pse.model.Droid;
-import de.tum.in.ase.pse.model.DroidType;
-import de.tum.in.ase.pse.util.SerialisationUtil;
+import circuit_breaker.model.Droid;
+import circuit_breaker.model.DroidType;
+import circuit_breaker.util.SerialisationUtil;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;

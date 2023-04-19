@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse.model;
+package circuit_breaker.model;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse.model;
+package circuit_breaker.model;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.SerializerProvider;

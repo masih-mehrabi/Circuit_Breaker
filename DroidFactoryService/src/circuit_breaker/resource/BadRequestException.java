@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse.resource;
+package circuit_breaker.resource;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

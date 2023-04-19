@@ -1,9 +1,9 @@
-package de.tum.in.ase.pse.resource;
+package circuit_breaker.resource;
 
 
-import de.tum.in.ase.pse.model.Droid;
-import de.tum.in.ase.pse.model.DroidFactory;
-import de.tum.in.ase.pse.model.DroidType;
+import circuit_breaker.model.Droid;
+import circuit_breaker.model.DroidFactory;
+import circuit_breaker.model.DroidType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

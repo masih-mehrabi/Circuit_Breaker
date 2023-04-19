@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse.model;
+package circuit_breaker.model;
 
 public final class DroidFactory {
 	private DroidFactory() {

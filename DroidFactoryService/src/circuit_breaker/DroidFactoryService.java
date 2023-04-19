@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package circuit_breaker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
